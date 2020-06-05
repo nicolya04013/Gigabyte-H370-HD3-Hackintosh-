@@ -313,7 +313,7 @@
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Add</key>
 		<array>
@@ -606,7 +606,7 @@
 			<key>MLB</key>
 			<string></string>
 			<key>ROM</key>
-			<data>AAAAAA==</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
@@ -614,7 +614,7 @@
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>09199DB3-20ED-4751-97F2-CAC2D05BE8F6</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
